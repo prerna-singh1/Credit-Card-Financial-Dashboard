@@ -1,2 +1,5 @@
 # Credit_card_Financial-_Dashboard
 Power bi dashboard
+
+Credit_card_customer_report.pdf
+Credit_Card_Transaction_Report.pdf
